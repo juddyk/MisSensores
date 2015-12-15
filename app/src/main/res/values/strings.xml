@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mis Sensores</string>
+    <string name="magnetic">Magnetic Field Sensor</string>
+    <string name="orientation">Orientation Sensor</string>
+    <string name="proximity">Proximity Sensor</string>
+    <string name="Light">Light Sensor</string>
+    <string name="rotation">Rotation Sensor</string>
+    <string name="accelerometer">Accelerometer Sensor</string>
+    <string name="Lista">Lista de Sensores</string>
+
+</resources>
